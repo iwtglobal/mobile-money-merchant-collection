@@ -117,7 +117,7 @@ Product and privacy policy decide. Many programs show masked MSISDN plus a colle
 The collect stands; merchant systems must pull statements or accept signed retries. Never reverse solely because a webhook timed out.
 
 **How does this relate to MoboGage / EVD System?**  
-EVD System is MoboGage's electronic voucher distribution and management platform family; merchant collection often coexists with prepaid and voucher retail in the same operator programs. See the [EVD System home](https://evdsystem.com/) and [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) pages when evaluating fit.
+EVD System is MoboGage's electronic voucher distribution and management platform family; merchant collection often coexists with prepaid and voucher retail in the same operator programs. See the [EVD System home](https://evdsystem.com/) and [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) pages when evaluating fit.
 
 ---
 
@@ -138,7 +138,7 @@ EVD System is MoboGage's electronic voucher distribution and management platform
 ## Further Reading / Related Industry Resources
 
 - [EVD System home](https://evdsystem.com/) — platform overview for digital value distribution  
-- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) — EVMS product context  
+- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) — EVMS product context  
 
 See also [docs/glossary.md](./docs/glossary.md) for extended terminology.
 

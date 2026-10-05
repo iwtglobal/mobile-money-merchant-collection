@@ -45,6 +45,6 @@ intent → till-resolved → amount/ref validated → customer-confirmed → pos
 
 ## Related Reading
 
-Live product reading: [evdsystem.com](https://evdsystem.com/), [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/).
+Live product reading: [evdsystem.com](https://evdsystem.com/), [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/).
 
 MoboGage / EVD System materials on evdsystem.com describe adjacent digital value distribution capabilities that often sit beside mobile money merchant collection in telecom markets.
